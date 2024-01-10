@@ -1,0 +1,56 @@
+2024-01-09 22:17:10,913 DEBUG cd farmica && python3 -m venv env
+2024-01-09 22:17:13,848 DEBUG cd farmica && /home/chrisphine/Documents/farmica/env/bin/python -m pip install --quiet --upgrade pip
+2024-01-09 22:17:26,630 DEBUG cd farmica && /home/chrisphine/Documents/farmica/env/bin/python -m pip install --quiet wheel
+2024-01-09 22:17:41,913 LOG Getting frappe
+2024-01-09 22:17:41,913 DEBUG cd farmica/apps && git clone https://github.com/frappe/frappe.git --branch version-15 --depth 1 --origin upstream
+2024-01-09 22:18:06,534 LOG Installing frappe
+2024-01-09 22:18:06,535 DEBUG cd /home/chrisphine/Documents/farmica && /home/chrisphine/Documents/farmica/env/bin/python -m pip install --quiet --upgrade -e /home/chrisphine/Documents/farmica/apps/frappe 
+2024-01-09 22:20:51,675 DEBUG cd /home/chrisphine/Documents/farmica/apps/frappe && yarn install
+2024-01-09 22:20:54,945 DEBUG cd /home/chrisphine/Documents/farmica && sudo supervisorctl restart frappe:
+2024-01-09 22:20:57,296 WARNING cd /home/chrisphine/Documents/farmica && sudo supervisorctl restart frappe: executed with exit code 7
+2024-01-09 22:20:57,296 WARNING restarting supervisor failed. Use `bench restart` to retry.
+2024-01-09 22:20:57,296 DEBUG cd farmica && bench build
+2024-01-09 22:20:57,373 INFO /home/chrisphine/.local/bin/bench build
+2024-01-09 22:22:30,461 LOG setting up backups
+2024-01-09 22:22:30,469 LOG backups were set up
+2024-01-09 22:22:30,469 INFO Bench farmica initialized
+2024-01-10 00:00:01,990 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup
+2024-01-10 00:56:19,197 INFO /home/chrisphine/.local/bin/bench start
+2024-01-10 00:56:19,464 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-10 00:56:19,468 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-10 00:56:19,480 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-10 00:56:19,505 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-10 00:57:07,809 INFO /home/chrisphine/.local/bin/bench new-site farmica.com
+2024-01-10 00:58:20,854 INFO /home/chrisphine/.local/bin/bench --site farmica.com add-to-host
+2024-01-10 01:00:21,016 INFO /home/chrisphine/.local/bin/bench new-app farmica
+2024-01-10 01:00:21,020 LOG creating new app farmica
+2024-01-10 01:00:29,510 WARNING /home/chrisphine/.local/bin/bench new-app farmica executed with exit code 1
+2024-01-10 01:00:49,977 INFO /home/chrisphine/.local/bin/bench new-app farmica
+2024-01-10 01:00:49,981 LOG creating new app farmica
+2024-01-10 01:01:57,739 LOG Installing farmica
+2024-01-10 01:01:57,740 DEBUG cd /home/chrisphine/Documents/farmica && /home/chrisphine/Documents/farmica/env/bin/python -m pip install --quiet --upgrade -e /home/chrisphine/Documents/farmica/apps/farmica 
+2024-01-10 01:02:11,250 DEBUG bench build --app farmica
+2024-01-10 01:02:11,331 INFO /home/chrisphine/.local/bin/bench build --app farmica
+2024-01-10 01:02:25,550 DEBUG cd /home/chrisphine/Documents/farmica && sudo supervisorctl restart frappe:
+2024-01-10 01:02:27,893 WARNING cd /home/chrisphine/Documents/farmica && sudo supervisorctl restart frappe: executed with exit code 7
+2024-01-10 01:02:27,893 WARNING restarting supervisor failed. Use `bench restart` to retry.
+2024-01-10 01:03:44,980 INFO /home/chrisphine/.local/bin/bench --site farmica.com install-app farmica
+2024-01-10 01:03:49,747 INFO /home/chrisphine/.local/bin/bench --site farmica.com add-to-host
+2024-01-10 01:04:05,471 INFO /home/chrisphine/.local/bin/bench start
+2024-01-10 01:04:05,673 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-10 01:04:05,677 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-10 01:04:05,703 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-10 01:04:05,708 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-10 06:00:01,208 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup
+2024-01-10 10:36:31,908 INFO /home/chrisphine/.local/bin/bench start
+2024-01-10 10:36:32,151 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-10 10:36:32,160 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-10 10:36:32,162 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-10 10:36:32,164 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-10 11:23:39,754 INFO /home/chrisphine/.local/bin/bench migrate
+2024-01-10 11:23:45,859 INFO /home/chrisphine/.local/bin/bench start
+2024-01-10 11:23:46,065 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-10 11:23:46,095 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-10 11:23:46,100 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-10 11:23:46,103 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-10 12:00:01,404 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup

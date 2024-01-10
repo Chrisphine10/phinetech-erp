@@ -1,0 +1,21 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "15.8.1"
+    },
+    "farmica": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "5fffc92541387c25b8492aec4fbc1f22ce6e5dc7",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
+    }
+}
