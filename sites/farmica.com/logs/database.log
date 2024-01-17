@@ -2500,3 +2500,203 @@ ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default
 ALTER TABLE `tabPacking` ADD COLUMN `lot` varchar(140), ADD COLUMN `style` varchar(140)
 2024-01-10 12:08:15,297 WARNING database DDL Query made to DB:
 ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default 0
+2024-01-10 12:25:28,229 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default 0
+2024-01-10 12:35:55,741 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default 0
+2024-01-10 12:36:56,993 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` ADD COLUMN `uicode` varchar(140)
+2024-01-10 12:36:56,997 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default 0
+2024-01-10 12:59:52,677 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default 0
+2024-01-10 13:05:01,938 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default 0
+2024-01-10 13:05:01,945 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` ADD INDEX `uicode_index`(`uicode`)
+2024-01-10 13:09:12,610 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default 0
+2024-01-10 13:21:50,001 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default 0
+2024-01-10 13:25:20,153 WARNING database DDL Query made to DB:
+ALTER TABLE `tabWarehouse` ADD COLUMN `uicode` varchar(140)
+2024-01-10 13:27:11,200 WARNING database DDL Query made to DB:
+ALTER TABLE `tabWarehouse` ADD UNIQUE INDEX IF NOT EXISTS uicode (`uicode`)
+2024-01-10 13:40:06,022 WARNING database DDL Query made to DB:
+ALTER TABLE `tabWarehouse` MODIFY `name` varchar(140)
+2024-01-10 13:41:06,337 WARNING database DDL Query made to DB:
+ALTER TABLE `tabWarehouse` MODIFY `uicode` varchar(140) default '10000000000'
+2024-01-10 13:42:50,757 WARNING database DDL Query made to DB:
+create sequence if not exists warehouse_id_seq nocache nocycle
+2024-01-10 13:42:50,767 WARNING database DDL Query made to DB:
+ALTER TABLE `tabWarehouse` MODIFY `name` bigint
+2024-01-10 13:43:38,568 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default 0
+2024-01-10 13:48:46,315 WARNING database DDL Query made to DB:
+ALTER TABLE `tabRework` ADD COLUMN `unique_code` varchar(140)
+2024-01-10 13:49:46,709 WARNING database DDL Query made to DB:
+ALTER TABLE `tabRework` ADD COLUMN `uicode` varchar(140)
+2024-01-10 14:22:11,929 WARNING database DDL Query made to DB:
+ALTER TABLE `tabWarehouse` ADD COLUMN `number_of_ctns` int(11) not null default 0
+2024-01-10 14:27:14,168 WARNING database DDL Query made to DB:
+ALTER TABLE `tabRework` ADD COLUMN `should_update_warehouse` int(1) not null default 0
+2024-01-10 15:04:09,006 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default 0
+2024-01-10 15:23:18,635 WARNING database DDL Query made to DB:
+create sequence if not exists lot_id_seq nocache nocycle
+2024-01-10 15:23:18,635 WARNING database DDL Query made to DB:
+create sequence if not exists lot_id_seq nocache nocycle
+2024-01-10 15:23:18,644 WARNING database DDL Query made to DB:
+ALTER TABLE `tabLot` MODIFY `name` bigint
+2024-01-10 15:23:18,644 WARNING database DDL Query made to DB:
+ALTER TABLE `tabLot` MODIFY `name` bigint
+2024-01-10 15:23:26,769 WARNING database DDL Query made to DB:
+ALTER TABLE `tabLot` DROP INDEX `lot_no`
+2024-01-10 15:23:26,769 WARNING database DDL Query made to DB:
+ALTER TABLE `tabLot` DROP INDEX `lot_no`
+2024-01-10 15:49:28,259 WARNING database DDL Query made to DB:
+ALTER TABLE `tabLot` MODIFY `name` varchar(140)
+2024-01-10 15:49:28,259 WARNING database DDL Query made to DB:
+ALTER TABLE `tabLot` MODIFY `name` varchar(140)
+2024-01-10 15:49:28,277 WARNING database DDL Query made to DB:
+ALTER TABLE `tabLot` ADD UNIQUE INDEX IF NOT EXISTS lot_no (`lot_no`)
+2024-01-10 15:49:28,277 WARNING database DDL Query made to DB:
+ALTER TABLE `tabLot` ADD UNIQUE INDEX IF NOT EXISTS lot_no (`lot_no`)
+2024-01-10 15:50:46,716 WARNING database DDL Query made to DB:
+create sequence if not exists lot_id_seq nocache nocycle
+2024-01-10 15:50:46,716 WARNING database DDL Query made to DB:
+create sequence if not exists lot_id_seq nocache nocycle
+2024-01-10 15:50:46,726 WARNING database DDL Query made to DB:
+ALTER TABLE `tabLot` MODIFY `name` bigint
+2024-01-10 15:50:46,726 WARNING database DDL Query made to DB:
+ALTER TABLE `tabLot` MODIFY `name` bigint
+2024-01-10 15:52:47,015 WARNING database DDL Query made to DB:
+ALTER TABLE `tabLot` DROP INDEX `lot_no`
+2024-01-10 15:52:47,015 WARNING database DDL Query made to DB:
+ALTER TABLE `tabLot` DROP INDEX `lot_no`
+2024-01-11 12:56:34,906 WARNING database DDL Query made to DB:
+ALTER TABLE `tabWarehouse` ADD COLUMN `should_update_packing` int(1) not null default 0
+2024-01-11 14:04:26,670 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default 0
+2024-01-11 14:05:25,937 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default 0
+2024-01-11 14:05:35,897 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default 0
+2024-01-11 14:06:03,550 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default 0
+2024-01-11 14:10:08,954 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default 0
+2024-01-11 14:15:25,707 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default 0
+2024-01-11 14:17:26,921 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default 0
+2024-01-16 09:49:19,521 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` ADD COLUMN `weight_balance` decimal(21,9) not null default 0
+2024-01-16 09:49:19,527 WARNING database DDL Query made to DB:
+ALTER TABLE `tabPacking` MODIFY `weight_received` decimal(21,9) not null default 0
+2024-01-16 18:15:36,743 WARNING database DDL Query made to DB:
+create table `tabSupplier` (
+			name varchar(140) primary key,
+			creation datetime(6),
+			modified datetime(6),
+			modified_by varchar(140),
+			owner varchar(140),
+			docstatus int(1) not null default '0',
+			idx int(8) not null default '0',
+			`_user_tags` text,
+`_comments` text,
+`_assign` text,
+`_liked_by` text,
+index modified(modified))
+			ENGINE=InnoDB
+			ROW_FORMAT=DYNAMIC
+			CHARACTER SET=utf8mb4
+			COLLATE=utf8mb4_unicode_ci
+2024-01-16 18:25:57,901 WARNING database DDL Query made to DB:
+ALTER TABLE `tabSupplier` ADD COLUMN `company_name` varchar(140), ADD COLUMN `first_name` varchar(140), ADD COLUMN `second_name` varchar(140), ADD COLUMN `region` varchar(140)
+2024-01-16 18:26:24,232 WARNING database DDL Query made to DB:
+create table `tabVehicle` (
+			name varchar(140) primary key,
+			creation datetime(6),
+			modified datetime(6),
+			modified_by varchar(140),
+			owner varchar(140),
+			docstatus int(1) not null default '0',
+			idx int(8) not null default '0',
+			`_user_tags` text,
+`_comments` text,
+`_assign` text,
+`_liked_by` text,
+index modified(modified))
+			ENGINE=InnoDB
+			ROW_FORMAT=DYNAMIC
+			CHARACTER SET=utf8mb4
+			COLLATE=utf8mb4_unicode_ci
+2024-01-16 18:47:01,587 WARNING database DDL Query made to DB:
+ALTER TABLE `tabVehicle` ADD COLUMN `vehicle_number` varchar(140), ADD COLUMN `supplier` varchar(140)
+2024-01-16 18:49:46,886 WARNING database DDL Query made to DB:
+create table `tabWeighing Station` (
+			name varchar(140) primary key,
+			creation datetime(6),
+			modified datetime(6),
+			modified_by varchar(140),
+			owner varchar(140),
+			docstatus int(1) not null default '0',
+			idx int(8) not null default '0',
+			`_user_tags` text,
+`_comments` text,
+`_assign` text,
+`_liked_by` text,
+index modified(modified))
+			ENGINE=InnoDB
+			ROW_FORMAT=DYNAMIC
+			CHARACTER SET=utf8mb4
+			COLLATE=utf8mb4_unicode_ci
+2024-01-16 18:50:40,118 WARNING database DDL Query made to DB:
+ALTER TABLE `tabWeighing Station` ADD COLUMN `station_name` varchar(140)
+2024-01-16 18:51:15,235 WARNING database DDL Query made to DB:
+create table `tabNIS Weighing` (
+			name varchar(140) primary key,
+			creation datetime(6),
+			modified datetime(6),
+			modified_by varchar(140),
+			owner varchar(140),
+			docstatus int(1) not null default '0',
+			idx int(8) not null default '0',
+			`_user_tags` text,
+`_comments` text,
+`_assign` text,
+`_liked_by` text,
+index modified(modified))
+			ENGINE=InnoDB
+			ROW_FORMAT=DYNAMIC
+			CHARACTER SET=utf8mb4
+			COLLATE=utf8mb4_unicode_ci
+2024-01-16 18:54:16,396 WARNING database DDL Query made to DB:
+create table `tabWeighing Machine` (
+			name varchar(140) primary key,
+			creation datetime(6),
+			modified datetime(6),
+			modified_by varchar(140),
+			owner varchar(140),
+			docstatus int(1) not null default '0',
+			idx int(8) not null default '0',
+			`_user_tags` text,
+`_comments` text,
+`_assign` text,
+`_liked_by` text,
+index modified(modified))
+			ENGINE=InnoDB
+			ROW_FORMAT=DYNAMIC
+			CHARACTER SET=utf8mb4
+			COLLATE=utf8mb4_unicode_ci
+2024-01-16 18:56:46,758 WARNING database DDL Query made to DB:
+ALTER TABLE `tabWeighing Machine` ADD COLUMN `weight` decimal(21,9) not null default 0
+2024-01-16 18:59:46,205 WARNING database DDL Query made to DB:
+ALTER TABLE `tabNIS Weighing` ADD COLUMN `weight` varchar(140)
+2024-01-17 16:37:41,122 WARNING database DDL Query made to DB:
+create sequence if not exists nis_weighing_id_seq nocache nocycle
+2024-01-17 16:37:41,131 WARNING database DDL Query made to DB:
+ALTER TABLE `tabNIS Weighing` MODIFY `name` bigint
+2024-01-17 17:10:21,530 WARNING database DDL Query made to DB:
+ALTER TABLE `tabNIS Weighing` ADD COLUMN `workflow_state` varchar(140)
