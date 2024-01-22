@@ -178,3 +178,180 @@ Consider the consequences of `git reset --hard` on your apps before you run that
 To avoid seeing this warning, set shallow_clone to false in your common_site_config.json
 		
 2024-01-17 17:28:26,177 WARNING /home/chrisphine/.local/bin/bench update --pull executed with exit code 1
+2024-01-17 17:29:03,805 INFO /home/chrisphine/.local/bin/bench update --pull
+2024-01-17 17:29:05,237 WARNING shallow_clone is set in your bench config.
+However without passing the --reset flag, your repositories will be unshallowed.
+To avoid this, cancel this operation and run `bench update --reset`.
+
+Consider the consequences of `git reset --hard` on your apps before you run that.
+To avoid seeing this warning, set shallow_clone to false in your common_site_config.json
+		
+2024-01-17 17:29:15,928 WARNING /home/chrisphine/.local/bin/bench update --pull executed with exit code 1
+2024-01-17 17:32:11,347 INFO /home/chrisphine/.local/bin/bench setup supervisor
+2024-01-17 17:32:11,497 LOG Updated supervisord.conf: 'chmod' changed from '0700                       ; sockef file mode (default 0700)' to '0760'
+2024-01-17 17:32:11,497 LOG Updated supervisord.conf: 'chown' changed from '' to 'chrisphine:chrisphine'
+2024-01-17 17:32:20,393 INFO /home/chrisphine/.local/bin/bench restart
+2024-01-17 17:32:20,693 DEBUG cd /home/chrisphine/Documents/farmica && sudo supervisorctl restart frappe:
+2024-01-17 17:32:23,012 WARNING cd /home/chrisphine/Documents/farmica && sudo supervisorctl restart frappe: executed with exit code 7
+2024-01-17 17:32:23,013 WARNING /home/chrisphine/.local/bin/bench restart executed with exit code 1
+2024-01-17 17:32:27,121 INFO /home/chrisphine/.local/bin/bench setup supervisor
+2024-01-17 17:32:27,263 LOG Updated supervisord.conf: 'chmod' changed from '0700                       ; sockef file mode (default 0700)' to '0760'
+2024-01-17 17:32:27,263 LOG Updated supervisord.conf: 'chown' changed from '' to 'chrisphine:chrisphine'
+2024-01-17 17:32:32,425 WARNING /home/chrisphine/.local/bin/bench setup supervisor executed with exit code 1
+2024-01-17 17:35:48,914 INFO /home/chrisphine/.local/bin/bench update --pull
+2024-01-17 17:35:50,419 WARNING shallow_clone is set in your bench config.
+However without passing the --reset flag, your repositories will be unshallowed.
+To avoid this, cancel this operation and run `bench update --reset`.
+
+Consider the consequences of `git reset --hard` on your apps before you run that.
+To avoid seeing this warning, set shallow_clone to false in your common_site_config.json
+		
+2024-01-17 17:36:01,254 WARNING /home/chrisphine/.local/bin/bench update --pull executed with exit code 1
+2024-01-17 17:36:14,893 INFO /home/chrisphine/.local/bin/bench start
+2024-01-17 17:36:15,100 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-17 17:36:15,114 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-17 17:36:15,128 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-17 17:36:15,129 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-17 17:37:59,613 INFO /home/chrisphine/.local/bin/bench restart
+2024-01-17 17:38:02,688 DEBUG cd /home/chrisphine/Documents/farmica && sudo supervisorctl restart frappe:
+2024-01-17 17:38:05,008 WARNING cd /home/chrisphine/Documents/farmica && sudo supervisorctl restart frappe: executed with exit code 7
+2024-01-17 17:38:05,008 WARNING /home/chrisphine/.local/bin/bench restart executed with exit code 1
+2024-01-17 17:39:19,521 INFO /home/chrisphine/.local/bin/bench restart
+2024-01-17 17:39:19,799 DEBUG cd /home/chrisphine/Documents/farmica && sudo supervisorctl restart frappe:
+2024-01-17 17:39:22,158 WARNING cd /home/chrisphine/Documents/farmica && sudo supervisorctl restart frappe: executed with exit code 7
+2024-01-17 17:39:22,158 WARNING /home/chrisphine/.local/bin/bench restart executed with exit code 1
+2024-01-17 17:40:40,084 INFO /home/chrisphine/.local/bin/bench start
+2024-01-17 17:40:40,279 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-17 17:40:40,312 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-17 17:40:40,319 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-17 17:40:40,320 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-17 18:00:01,817 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup
+2024-01-17 20:09:17,218 INFO /home/chrisphine/.local/bin/bench start
+2024-01-17 20:09:17,503 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-17 20:09:17,504 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-17 20:09:17,507 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-17 20:09:17,526 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-17 20:18:24,680 INFO /home/chrisphine/.local/bin/bench update --status
+2024-01-17 20:18:24,685 WARNING /home/chrisphine/.local/bin/bench update --status executed with exit code 2
+2024-01-17 20:18:30,579 INFO /home/chrisphine/.local/bin/bench update --status
+2024-01-17 20:18:30,584 WARNING /home/chrisphine/.local/bin/bench update --status executed with exit code 2
+2024-01-17 20:18:56,422 INFO /home/chrisphine/.local/bin/bench update --reset
+2024-01-17 20:18:59,050 LOG pulling frappe
+2024-01-17 20:18:59,050 DEBUG cd /home/chrisphine/Documents/farmica/apps/frappe && git fetch --depth=1 --no-tags upstream version-15
+2024-01-17 20:19:00,456 DEBUG cd /home/chrisphine/Documents/farmica/apps/frappe && git reset --hard upstream/version-15
+2024-01-17 20:19:00,490 DEBUG cd /home/chrisphine/Documents/farmica/apps/frappe && git reflog expire --all
+2024-01-17 20:19:00,492 DEBUG cd /home/chrisphine/Documents/farmica/apps/frappe && git gc --prune=all
+2024-01-17 20:19:00,628 DEBUG cd /home/chrisphine/Documents/farmica/apps/frappe && find . -name "*.pyc" -delete
+2024-01-17 20:19:00,690 DEBUG cd /home/chrisphine/Documents/farmica && /home/chrisphine/Documents/farmica/env/bin/python -m pip install --quiet --upgrade pip
+2024-01-17 20:19:02,460 LOG Installing frappe
+2024-01-17 20:19:02,460 DEBUG cd /home/chrisphine/Documents/farmica && /home/chrisphine/Documents/farmica/env/bin/python -m pip install --quiet --upgrade -e /home/chrisphine/Documents/farmica/apps/frappe 
+2024-01-17 20:19:06,985 DEBUG cd /home/chrisphine/Documents/farmica && /home/chrisphine/Documents/farmica/env/bin/python -m pip install --quiet --upgrade coverage~=6.5.0 Faker~=18.10.1 pyngrok~=6.0.0 unittest-xml-reporting~=3.2.0 watchdog~=3.0.0 hypothesis~=6.77.0 responses==0.23.1 freezegun~=1.2.2 
+2024-01-17 20:19:24,024 DEBUG cd /home/chrisphine/Documents/farmica/apps/frappe && yarn install
+2024-01-17 20:22:06,506 LOG Installing farmica
+2024-01-17 20:22:06,506 DEBUG cd /home/chrisphine/Documents/farmica && /home/chrisphine/Documents/farmica/env/bin/python -m pip install --quiet --upgrade -e /home/chrisphine/Documents/farmica/apps/farmica 
+2024-01-17 20:22:10,062 WARNING /home/chrisphine/.local/bin/bench update --reset executed with exit code 1
+2024-01-17 20:28:01,808 INFO /home/chrisphine/.local/bin/bench start
+2024-01-17 20:28:02,009 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-17 20:28:02,010 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-17 20:28:02,045 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-17 20:28:02,048 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-17 20:28:51,086 INFO /home/chrisphine/.local/bin/bench start
+2024-01-17 20:28:51,333 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-17 20:28:51,350 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-17 20:28:51,352 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-17 20:28:51,365 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-17 20:29:12,138 INFO /home/chrisphine/.local/bin/bench start
+2024-01-17 20:29:12,357 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-17 20:29:12,360 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-17 20:29:12,361 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-17 20:29:12,376 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-18 00:00:01,958 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup
+2024-01-18 03:36:44,972 INFO /home/chrisphine/.local/bin/bench start
+2024-01-18 03:36:45,221 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-18 03:36:45,226 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-18 03:36:45,230 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-18 03:36:45,233 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-18 03:44:16,005 INFO /home/chrisphine/.local/bin/bench build
+2024-01-18 03:45:09,936 INFO /home/chrisphine/.local/bin/bench start
+2024-01-18 03:45:10,145 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-18 03:45:10,184 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-18 03:45:10,188 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-18 03:45:10,199 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-18 03:57:50,654 INFO /home/chrisphine/.local/bin/bench start
+2024-01-18 03:57:50,853 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-18 03:57:50,854 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-18 03:57:50,866 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-18 03:57:50,869 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-18 06:00:01,996 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup
+2024-01-18 17:42:13,964 INFO /home/chrisphine/.local/bin/bench start
+2024-01-18 17:42:14,172 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-18 17:42:14,180 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-18 17:42:14,208 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-18 17:42:14,218 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-18 18:00:02,181 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup
+2024-01-18 18:45:22,258 INFO /home/chrisphine/.local/bin/bench start
+2024-01-18 18:45:22,471 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-18 18:45:22,480 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-18 18:45:22,494 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-18 18:45:22,505 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-18 18:57:52,958 INFO /home/chrisphine/.local/bin/bench start
+2024-01-18 18:57:53,174 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-18 18:57:53,182 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-18 18:57:53,208 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-18 18:57:53,218 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-18 19:01:30,942 INFO /home/chrisphine/.local/bin/bench start
+2024-01-18 19:01:31,168 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-18 19:01:31,186 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-18 19:01:31,188 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-18 19:01:31,190 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-18 19:07:39,463 INFO /home/chrisphine/.local/bin/bench start
+2024-01-18 19:07:39,674 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-18 19:07:39,677 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-18 19:07:39,680 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-18 19:07:39,687 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-19 00:00:01,575 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup
+2024-01-19 06:00:01,140 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup
+2024-01-19 07:25:18,424 INFO /home/chrisphine/.local/bin/bench start
+2024-01-19 07:25:18,715 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-19 07:25:18,734 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-19 07:25:18,745 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-19 07:25:18,750 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-19 08:06:19,364 INFO /usr/local/bin/bench start
+2024-01-19 08:06:19,596 INFO /usr/local/bin/bench serve --port 8002
+2024-01-19 08:06:19,597 INFO /usr/local/bin/bench watch
+2024-01-19 08:06:19,597 INFO /usr/local/bin/bench worker
+2024-01-19 08:06:19,599 INFO /usr/local/bin/bench schedule
+2024-01-19 08:06:23,445 INFO /home/chrisphine/.local/bin/bench start
+2024-01-19 08:06:23,641 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-19 08:06:23,643 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-19 08:06:23,679 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-19 08:06:23,683 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-22 12:00:01,466 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup
+2024-01-22 14:26:32,980 INFO /home/chrisphine/.local/bin/bench start
+2024-01-22 14:26:33,204 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-22 14:26:33,219 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-22 14:26:33,226 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-22 14:26:33,231 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-22 14:32:18,126 INFO /home/chrisphine/.local/bin/bench migrate
+2024-01-22 14:32:28,771 INFO /home/chrisphine/.local/bin/bench --site farmica.com migrate
+2024-01-22 14:32:36,084 INFO /home/chrisphine/.local/bin/bench start
+2024-01-22 14:32:36,290 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-22 14:32:36,304 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-22 14:32:36,305 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-22 14:32:36,308 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-22 14:32:57,343 INFO /home/chrisphine/.local/bin/bench start
+2024-01-22 14:32:57,543 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-22 14:32:57,554 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-22 14:32:57,580 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-22 14:32:57,580 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-22 14:33:03,138 INFO /home/chrisphine/.local/bin/bench --site farmica.com migrate
+2024-01-22 14:55:48,213 INFO /home/chrisphine/.local/bin/bench start
+2024-01-22 14:55:48,429 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-22 14:55:48,431 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-22 14:55:48,438 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-22 14:55:48,469 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-22 15:01:38,169 INFO /home/chrisphine/.local/bin/bench start
+2024-01-22 15:01:38,399 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-22 15:01:38,404 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-22 15:01:38,426 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-22 15:01:38,430 INFO /home/chrisphine/.local/bin/bench schedule

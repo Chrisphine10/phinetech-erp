@@ -1,0 +1,1478 @@
+2024-01-10 16:57:39,706 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Lot","name":"new-lot-kgskjscnvh","__islocal":1,"__unsaved":1,"owner":"Administrator","lot_no":"3","batch":"3RGERG3T34"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-01-10 18:05:05,501 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Lot","name":"new-lot-fmyrpzbeja","__islocal":1,"__unsaved":1,"owner":"Administrator","__run_link_triggers":1,"lot_no":"3","batch":"3RGERG3T34"}', 'cmd': 'frappe.client.save'}
+2024-01-10 18:05:19,704 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Lot","name":"new-lot-fmyrpzbeja","__islocal":1,"__unsaved":1,"owner":"Administrator","lot_no":"3","batch":"3RGERG3T34"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-01-10 18:07:07,993 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Lot","name":"new-lot-xtzhmiemrm","__islocal":1,"__unsaved":1,"owner":"Administrator","__run_link_triggers":1,"lot_no":"3","batch":"3RGERG3T34"}', 'cmd': 'frappe.client.save'}
+2024-01-10 18:17:15,113 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Lot","name":"new-lot-ccasbyqpgp","__islocal":1,"__unsaved":1,"owner":"Administrator","__run_link_triggers":1,"lot_no":"3","batch":"3RGERG3T34"}', 'cmd': 'frappe.client.save'}
+2024-01-11 15:02:15,568 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'recipients': 'xphine10@gmail.com, ', 'subject': '3RGERG3T34-P10 (#10)', 'content': '<div class="ql-editor read-mode"><p>test</p></div>', 'doctype': 'Packing', 'name': '10', 'send_email': '1', 'print_html': '', 'send_me_a_copy': '1', 'print_format': '', 'attachments': '[]', 'read_receipt': '0', 'print_letterhead': '1', 'send_after': '', 'cmd': 'frappe.core.doctype.communication.email.make'}
+2024-01-16 13:33:36,916 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'name': 'Inventory Chart', 'cmd': 'frappe.desk.doctype.dashboard_chart_source.dashboard_chart_source.get_config'}
+2024-01-16 13:33:49,282 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'name': 'Inventory Chart', 'cmd': 'frappe.desk.doctype.dashboard_chart_source.dashboard_chart_source.get_config'}
+2024-01-16 16:08:22,004 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'name': 'Inventory Chart', 'cmd': 'frappe.desk.doctype.dashboard_chart_source.dashboard_chart_source.get_config'}
+2024-01-16 16:08:28,015 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'name': 'Inventory Chart', 'cmd': 'frappe.desk.doctype.dashboard_chart_source.dashboard_chart_source.get_config'}
+2024-01-17 17:36:05,117 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:36:05,889 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:36:19,604 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:36:19,818 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:36:21,417 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:36:21,619 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:36:22,786 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:36:22,991 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:36:26,000 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:36:26,173 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:36:27,588 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:36:27,767 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:36:58,165 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:36:58,337 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:37:02,270 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:37:02,536 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:37:04,398 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:37:04,581 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:40:45,114 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 17:40:45,314 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 20:08:58,055 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 20:08:59,812 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 20:09:28,312 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 20:09:28,491 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 20:16:27,223 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 20:16:27,993 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 20:22:09,556 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-17 20:22:09,556 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-17 20:22:09,557 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-17 20:22:09,557 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-17 20:22:09,557 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-17 20:22:09,557 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-17 20:22:09,557 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-17 20:22:09,557 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-17 20:22:09,557 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-17 20:22:09,557 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-17 20:22:09,557 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+AttributeError: 'NoneType' object has no attribute 'hget'
+2024-01-17 20:28:02,751 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:02,752 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:02,752 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:02,752 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:02,752 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:02,752 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:02,752 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:02,752 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:02,753 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:02,753 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:02,753 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:03,413 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:03,413 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:03,414 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:03,414 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:03,414 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:03,414 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:03,414 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:03,414 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:03,414 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:03,414 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:03,415 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:07,450 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 20:28:07,640 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 20:28:09,427 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 20:28:09,650 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 20:28:10,862 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 20:28:11,068 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 20:28:14,472 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 20:28:14,653 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 20:28:52,492 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:52,493 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:52,493 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:52,493 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:52,494 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:52,494 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:52,494 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:52,494 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:52,495 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:52,495 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:52,495 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:53,138 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:53,139 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:53,139 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:53,139 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:53,139 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:53,140 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:53,140 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:53,140 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:53,140 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:53,141 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:53,141 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:28:56,512 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 20:28:56,745 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {}
+2024-01-17 20:29:13,158 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,158 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,158 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,158 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,159 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,159 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,159 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,159 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,159 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,159 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,159 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,775 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,775 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,775 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,776 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,776 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,776 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,776 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,776 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,776 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,777 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-17 20:29:13,777 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-18 03:34:57,429 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doc': '{"name":"NIS Weighing","creation":"2024-01-16 18:51:15.204219","modified":"2024-01-18 03:34:54.209807","modified_by":"Administrator","owner":"Administrator","docstatus":0,"idx":0,"issingle":0,"is_tree":0,"istable":0,"editable_grid":0,"track_changes":0,"module":"Farmica","restrict_to_domain":"farmica.com","autoname":"autoincrement","naming_rule":"Autoincrement","sort_field":"modified","sort_order":"DESC","read_only":0,"in_create":0,"allow_copy":0,"allow_rename":0,"allow_import":0,"hide_toolbar":0,"track_seen":0,"max_attachments":0,"document_type":"","engine":"InnoDB","is_submittable":0,"show_name_in_global_search":0,"custom":0,"beta":0,"has_web_view":0,"allow_guest_to_view":0,"email_append_to":0,"show_title_field_in_link":0,"translated_doctype":0,"is_calendar_and_gantt":0,"quick_entry":0,"track_views":0,"is_virtual":0,"queue_in_background":0,"allow_events_in_timeline":0,"allow_auto_repeat":0,"make_attachments_public":0,"force_re_route_to_default_view":0,"show_preview_popup":0,"index_web_pages_for_search":1,"doctype":"DocType","links":[],"states":[],"permissions":[{"name":"590cc9c23d","creation":"2024-01-16 18:51:15.204219","modified":"2024-01-18 03:34:54.209807","modified_by":"Administrator","owner":"Administrator","docstatus":0,"parent":"NIS Weighing","parentfield":"permissions","parenttype":"DocType","idx":1,"permlevel":0,"role":"System Manager","read":1,"write":1,"create":1,"submit":0,"cancel":0,"delete":1,"amend":0,"report":1,"export":1,"import":0,"share":1,"print":1,"email":1,"if_owner":0,"select":0,"doctype":"DocPerm"}],"fields":[{"name":"fcc68e1d48","creation":"2024-01-16 18:51:15.204219","modified":"2024-01-18 03:34:54.209807","modified_by":"Administrator","owner":"Administrator","docstatus":0,"parent":"NIS Weighing","parentfield":"fields","parenttype":"DocType","idx":1,"fieldname":"nis_weighing_form","label":"NIS Weighing Form","fieldtype":"Section Break","search_index":0,"show_dashboard":0,"hidden":0,"set_only_once":0,"allow_in_quick_entry":0,"print_hide":0,"report_hide":0,"reqd":0,"bold":0,"in_global_search":0,"collapsible":0,"unique":0,"no_copy":0,"allow_on_submit":0,"show_preview_popup":0,"permlevel":0,"ignore_user_permissions":0,"columns":0,"in_list_view":0,"fetch_if_empty":0,"in_filter":0,"remember_last_selected_value":0,"ignore_xss_filter":0,"print_hide_if_no_value":0,"allow_bulk_edit":0,"in_standard_filter":0,"in_preview":0,"read_only":0,"precision":"","length":0,"translatable":0,"hide_border":0,"hide_days":0,"hide_seconds":0,"non_negative":0,"is_virtual":0,"sort_options":0,"doctype":"DocField"},{"name":"7482d2a2a0","creation":"2024-01-16 18:51:15.204219","modified":"2024-01-18 03:34:54.209807","modified_by":"Administrator","owner":"Administrator","docstatus":0,"parent":"NIS Weighing","parentfield":"fields","parenttype":"DocType","idx":2,"fieldname":"weight","label":"Weight","fieldtype":"Data","search_index":0,"show_dashboard":0,"hidden":0,"set_only_once":0,"allow_in_quick_entry":0,"print_hide":0,"report_hide":0,"reqd":0,"bold":0,"in_global_search":0,"collapsible":0,"unique":0,"no_copy":0,"allow_on_submit":0,"show_preview_popup":0,"permlevel":0,"ignore_user_permissions":0,"columns":0,"in_list_view":0,"fetch_if_empty":0,"in_filter":0,"remember_last_selected_value":0,"ignore_xss_filter":0,"print_hide_if_no_value":0,"allow_bulk_edit":0,"in_standard_filter":0,"in_preview":0,"read_only":0,"precision":"","length":0,"translatable":0,"hide_border":0,"hide_days":0,"hide_seconds":0,"non_negative":0,"is_virtual":0,"sort_options":0,"doctype":"DocField"}],"actions":[],"__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-01-18 03:34:58,185 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-18 03:34:58,186 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-18 03:34:58,186 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-18 03:34:58,186 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-18 03:34:58,186 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-18 03:34:58,186 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-18 03:34:58,186 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-18 03:34:58,187 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-18 03:34:58,187 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-18 03:34:58,187 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-18 03:34:58,187 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-18 03:36:11,611 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-18 03:36:11,612 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-18 03:36:11,612 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-18 03:36:11,612 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-18 03:36:11,612 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-18 03:36:11,612 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound
+2024-01-18 03:36:11,612 ERROR frappe Unable to load translations
+Site: None
+Form Dict: None
+Traceback (most recent call last):
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
+    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
+    _name = self.make_key(name, shared=shared)
+  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
+    return f"{frappe.conf.db_name}|{key}".encode()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
+    obj = instance._get_current_object()
+  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: object is not bound

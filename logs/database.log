@@ -1067,3 +1067,7 @@ create sequence if not exists nis_weighing_id_seq nocache nocycle
 ALTER TABLE `tabNIS Weighing` MODIFY `name` bigint
 2024-01-17 17:10:21,530 WARNING database DDL Query made to DB:
 ALTER TABLE `tabNIS Weighing` ADD COLUMN `workflow_state` varchar(140)
+2024-01-19 09:01:18,161 WARNING database DDL Query made to DB:
+ALTER TABLE `tabNIS Weighing` ADD COLUMN `vehicle` varchar(140)
+2024-01-22 14:33:04,451 WARNING database DDL Query made to DB:
+ALTER TABLE `tabWeb Form Field` ADD COLUMN `precision` varchar(140)
