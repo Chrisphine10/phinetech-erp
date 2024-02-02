@@ -355,3 +355,74 @@ To avoid seeing this warning, set shallow_clone to false in your common_site_con
 2024-01-22 15:01:38,404 INFO /home/chrisphine/.local/bin/bench worker
 2024-01-22 15:01:38,426 INFO /home/chrisphine/.local/bin/bench serve --port 8002
 2024-01-22 15:01:38,430 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-22 18:00:01,691 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup
+2024-01-22 21:16:39,818 INFO /home/chrisphine/.local/bin/bench start
+2024-01-22 21:16:40,024 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-22 21:16:40,036 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-22 21:16:40,044 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-22 21:16:40,048 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-23 00:00:01,572 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup
+2024-01-23 08:40:26,253 INFO /home/chrisphine/.local/bin/bench start
+2024-01-23 08:40:26,550 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-23 08:40:26,554 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-23 08:40:26,578 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-23 08:40:26,580 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-23 10:21:53,515 INFO /home/chrisphine/.local/bin/bench start
+2024-01-23 10:21:53,734 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-23 10:21:53,737 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-23 10:21:53,757 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-23 10:21:53,761 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-23 10:43:41,733 INFO /home/chrisphine/.local/bin/bench start
+2024-01-23 10:43:41,973 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-23 10:43:41,980 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-23 10:43:42,007 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-23 10:43:42,017 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-23 10:59:46,098 INFO /usr/local/bin/bench start
+2024-01-23 10:59:46,351 INFO /usr/local/bin/bench serve --port 8002
+2024-01-23 10:59:46,352 INFO /usr/local/bin/bench worker
+2024-01-23 10:59:46,357 INFO /usr/local/bin/bench schedule
+2024-01-23 10:59:46,376 INFO /usr/local/bin/bench watch
+2024-01-23 10:59:50,355 INFO /home/chrisphine/.local/bin/bench start
+2024-01-23 10:59:50,597 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-23 10:59:50,598 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-23 10:59:50,627 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-23 10:59:50,629 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-23 11:17:27,297 INFO /home/chrisphine/.local/bin/bench start
+2024-01-23 11:17:27,619 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-23 11:17:27,620 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-23 11:17:27,626 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-23 11:17:27,627 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-23 11:28:53,975 INFO /home/chrisphine/.local/bin/bench start
+2024-01-23 11:28:59,620 INFO /home/chrisphine/.local/bin/bench start
+2024-01-23 11:34:34,250 INFO /home/chrisphine/.local/bin/bench start
+2024-01-23 11:34:34,464 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-23 11:34:34,471 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-23 11:34:34,471 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-23 11:34:34,478 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-23 11:41:09,035 INFO /usr/local/bin/bench start
+2024-01-23 11:41:09,227 INFO /usr/local/bin/bench watch
+2024-01-23 11:41:09,239 INFO /usr/local/bin/bench worker
+2024-01-23 11:41:09,263 INFO /usr/local/bin/bench serve --port 8002
+2024-01-23 11:41:09,266 INFO /usr/local/bin/bench schedule
+2024-01-23 11:44:56,359 INFO /home/chrisphine/.local/bin/bench start
+2024-01-23 11:44:56,565 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-23 11:44:56,581 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-23 11:44:56,587 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-23 11:44:56,603 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-23 12:00:01,820 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup
+2024-01-23 13:11:02,495 INFO /home/chrisphine/.local/bin/bench start
+2024-01-23 13:11:02,703 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-23 13:11:02,714 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-23 13:11:02,733 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-23 13:11:02,733 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-23 13:40:05,934 INFO /home/chrisphine/.local/bin/bench start
+2024-01-23 13:40:06,134 INFO /home/chrisphine/.local/bin/bench watch
+2024-01-23 13:40:06,138 INFO /home/chrisphine/.local/bin/bench worker
+2024-01-23 13:40:06,170 INFO /home/chrisphine/.local/bin/bench serve --port 8002
+2024-01-23 13:40:06,174 INFO /home/chrisphine/.local/bin/bench schedule
+2024-01-23 18:00:01,294 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup
+2024-01-24 00:00:01,503 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup
+2024-01-24 06:00:01,233 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup
+2024-01-24 12:00:01,147 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup
+2024-02-01 00:00:02,108 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup
+2024-02-01 06:00:01,912 INFO /home/chrisphine/.local/bin/bench --verbose --site all backup

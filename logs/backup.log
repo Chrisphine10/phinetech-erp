@@ -143,3 +143,57 @@ Backup Summary for farmica.com at 2024-01-22 12:00:03.291278
 Config  : ./farmica.com/private/backups/20240122_120002-farmica_com-site_config_backup.json 126.0B
 Database: ./farmica.com/private/backups/20240122_120002-farmica_com-database.sql.gz         488.1KiB
 Backup for Site farmica.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _c614f0f631365c9a -p********** _c614f0f631365c9a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./farmica.com/private/backups/20240122_180003-farmica_com-database.sql.gz
+
+Backup Summary for farmica.com at 2024-01-22 18:00:03.582819
+Config  : ./farmica.com/private/backups/20240122_180003-farmica_com-site_config_backup.json 126.0B
+Database: ./farmica.com/private/backups/20240122_180003-farmica_com-database.sql.gz         508.0KiB
+Backup for Site farmica.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _c614f0f631365c9a -p********** _c614f0f631365c9a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./farmica.com/private/backups/20240123_000002-farmica_com-database.sql.gz
+
+Backup Summary for farmica.com at 2024-01-23 00:00:03.577927
+Config  : ./farmica.com/private/backups/20240123_000002-farmica_com-site_config_backup.json 126.0B
+Database: ./farmica.com/private/backups/20240123_000002-farmica_com-database.sql.gz         515.0KiB
+Backup for Site farmica.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _c614f0f631365c9a -p********** _c614f0f631365c9a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./farmica.com/private/backups/20240123_120003-farmica_com-database.sql.gz
+
+Backup Summary for farmica.com at 2024-01-23 12:00:03.664276
+Config  : ./farmica.com/private/backups/20240123_120003-farmica_com-site_config_backup.json 126.0B
+Database: ./farmica.com/private/backups/20240123_120003-farmica_com-database.sql.gz         516.8KiB
+Backup for Site farmica.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _c614f0f631365c9a -p********** _c614f0f631365c9a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./farmica.com/private/backups/20240123_180002-farmica_com-database.sql.gz
+
+Backup Summary for farmica.com at 2024-01-23 18:00:03.340427
+Config  : ./farmica.com/private/backups/20240123_180002-farmica_com-site_config_backup.json 126.0B
+Database: ./farmica.com/private/backups/20240123_180002-farmica_com-database.sql.gz         517.3KiB
+Backup for Site farmica.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _c614f0f631365c9a -p********** _c614f0f631365c9a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./farmica.com/private/backups/20240124_000003-farmica_com-database.sql.gz
+
+Backup Summary for farmica.com at 2024-01-24 00:00:03.622553
+Config  : ./farmica.com/private/backups/20240124_000003-farmica_com-site_config_backup.json 126.0B
+Database: ./farmica.com/private/backups/20240124_000003-farmica_com-database.sql.gz         517.3KiB
+Backup for Site farmica.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _c614f0f631365c9a -p********** _c614f0f631365c9a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./farmica.com/private/backups/20240124_060002-farmica_com-database.sql.gz
+
+Backup Summary for farmica.com at 2024-01-24 06:00:02.982286
+Config  : ./farmica.com/private/backups/20240124_060002-farmica_com-site_config_backup.json 126.0B
+Database: ./farmica.com/private/backups/20240124_060002-farmica_com-database.sql.gz         517.3KiB
+Backup for Site farmica.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _c614f0f631365c9a -p********** _c614f0f631365c9a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./farmica.com/private/backups/20240124_120002-farmica_com-database.sql.gz
+
+Backup Summary for farmica.com at 2024-01-24 12:00:02.982089
+Config  : ./farmica.com/private/backups/20240124_120002-farmica_com-site_config_backup.json 126.0B
+Database: ./farmica.com/private/backups/20240124_120002-farmica_com-database.sql.gz         517.3KiB
+Backup for Site farmica.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _c614f0f631365c9a -p********** _c614f0f631365c9a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./farmica.com/private/backups/20240201_000003-farmica_com-database.sql.gz
+
+Backup Summary for farmica.com at 2024-02-01 00:00:04.289866
+Config  : ./farmica.com/private/backups/20240201_000003-farmica_com-site_config_backup.json 126.0B
+Database: ./farmica.com/private/backups/20240201_000003-farmica_com-database.sql.gz         517.3KiB
+Backup for Site farmica.com has been successfully completed
+self=$$;  ( mariadb-dump --single-transaction --quick --lock-tables=false -u _c614f0f631365c9a -p********** _c614f0f631365c9a -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./farmica.com/private/backups/20240201_060003-farmica_com-database.sql.gz
+
+Backup Summary for farmica.com at 2024-02-01 06:00:03.765246
+Config  : ./farmica.com/private/backups/20240201_060003-farmica_com-site_config_backup.json 126.0B
+Database: ./farmica.com/private/backups/20240201_060003-farmica_com-database.sql.gz         517.3KiB
+Backup for Site farmica.com has been successfully completed

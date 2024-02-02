@@ -424,3 +424,21 @@ Form Dict: {'name': 'Monthly Style', 'cmd': 'frappe.desk.doctype.dashboard_chart
 2024-01-22 15:03:47,818 ERROR frappe New Exception collected in error log
 Site: farmica.com
 Form Dict: {'name': 'Monthly Style', 'cmd': 'frappe.desk.doctype.dashboard_chart_source.dashboard_chart_source.get_config'}
+2024-01-22 15:23:58,271 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'name': 'inventory-report-page', 'cmd': 'frappe.desk.desk_page.getpage'}
+2024-01-22 15:25:04,876 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'name': 'inventory-report-page', 'cmd': 'frappe.desk.desk_page.getpage'}
+2024-01-23 12:12:29,280 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'cmd': 'farmica.farmica.doctype.nis_weighing.nis_weighing.get_weighing_data'}
+2024-01-23 12:12:34,311 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'cmd': 'farmica.farmica.doctype.nis_weighing.nis_weighing.get_weighing_data'}
+2024-01-23 12:12:53,739 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'cmd': 'farmica.farmica.doctype.nis_weighing.nis_weighing.get_weighing_data'}
+2024-01-23 12:13:02,427 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'cmd': 'farmica.farmica.doctype.nis_weighing.nis_weighing.get_weighing_data'}

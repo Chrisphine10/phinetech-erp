@@ -13340,3 +13340,193 @@ Skipping imported rows [72]
 2024-01-22 15:03:59,765 home-chrisphine-Documents-farmica:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Dashboard Chart', 'name': 'Yearly Warehouse Insight'}, method='frappe.model.delete_doc.delete_dynamic_links', site='farmica.com', user='Administrator') (farmica.com::142e022a-1e12-4c08-981c-1db2662e197e)
 2024-01-22 15:04:00,101 home-chrisphine-Documents-farmica:default: Job OK (farmica.com::142e022a-1e12-4c08-981c-1db2662e197e)
 2024-01-22 15:04:00,102 Result is kept for 600 seconds
+2024-01-22 15:17:30,183 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-22 15:17:30,184 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-22 15:17:30,185 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-22 15:21:04,243 home-chrisphine-Documents-farmica:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Dashboard Chart', 'name': 'Test 2'}, method='frappe.model.delete_doc.delete_dynamic_links', site='farmica.com', user='Administrator') (farmica.com::688ec895-6af4-4864-bb13-6d9087ff16a7)
+2024-01-22 15:21:04,547 home-chrisphine-Documents-farmica:default: Job OK (farmica.com::688ec895-6af4-4864-bb13-6d9087ff16a7)
+2024-01-22 15:21:04,547 Result is kept for 600 seconds
+2024-01-22 15:23:07,325 home-chrisphine-Documents-farmica:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Page'}, method='frappe.utils.global_search.rebuild_for_doctype', site='farmica.com', user='Administrator') (farmica.com::9087f9b9-cd2e-46b5-bfae-e75f5a9d2ec9)
+2024-01-22 15:23:07,577 home-chrisphine-Documents-farmica:default: Job OK (farmica.com::9087f9b9-cd2e-46b5-bfae-e75f5a9d2ec9)
+2024-01-22 15:23:07,577 Result is kept for 600 seconds
+2024-01-22 15:43:22,773 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-22 15:43:22,774 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-22 15:43:22,775 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-22 16:10:22,865 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-22 16:10:22,866 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-22 16:10:22,866 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-22 16:37:23,204 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-22 16:37:23,205 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-22 16:37:23,205 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-22 17:04:23,512 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-22 17:04:23,513 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-22 17:04:23,513 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-22 17:31:23,705 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-22 17:31:23,706 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-22 17:31:23,707 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-22 17:58:23,962 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-22 17:58:23,963 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-22 17:58:23,963 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-22 18:25:24,184 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-22 18:25:24,185 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-22 18:25:24,185 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-22 18:52:24,402 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-22 18:52:24,403 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-22 18:52:24,403 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-22 19:19:24,587 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-22 19:19:24,588 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-22 19:19:24,589 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-22 19:46:24,816 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-22 19:46:24,817 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-22 19:46:24,817 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-22 19:54:33,180 Worker 8daefdc1b25d4fdea8412debe6c31af4 [PID 72459]: warm shut down requested
+2024-01-22 21:16:40,839 Worker rq:worker:0d1f3415b7ba4ab38eed7e6641988bda started with PID 9653, version 1.15.1
+2024-01-22 21:16:40,840 Subscribing to channel rq:pubsub:0d1f3415b7ba4ab38eed7e6641988bda
+2024-01-22 21:16:40,841 *** Listening on home-chrisphine-Documents-farmica:short, home-chrisphine-Documents-farmica:default, home-chrisphine-Documents-farmica:long...
+2024-01-22 21:16:40,841 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-22 21:16:40,841 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-22 21:16:40,842 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-22 21:21:57,169 home-chrisphine-Documents-farmica:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Warehouse', 'name': 107}, method='frappe.model.delete_doc.delete_dynamic_links', site='farmica.com', user='ondiekchrisphine@gmail.com') (farmica.com::687677a4-0ced-457e-8cf9-aaf8b4ed813b)
+2024-01-22 21:21:57,450 home-chrisphine-Documents-farmica:default: Job OK (farmica.com::687677a4-0ced-457e-8cf9-aaf8b4ed813b)
+2024-01-22 21:21:57,450 Result is kept for 600 seconds
+2024-01-22 21:31:55,649 home-chrisphine-Documents-farmica:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'Workspace'}, method='frappe.utils.global_search.rebuild_for_doctype', site='farmica.com', user='Administrator') (farmica.com::0e291b1c-ab59-4657-a163-7c6a2758d500)
+2024-01-22 21:31:56,006 home-chrisphine-Documents-farmica:default: Job OK (farmica.com::0e291b1c-ab59-4657-a163-7c6a2758d500)
+2024-01-22 21:31:56,006 Result is kept for 600 seconds
+2024-01-22 21:44:07,123 home-chrisphine-Documents-farmica:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Custom Field', 'name': 'NIS Weighing-custom_second_weight'}, method='frappe.model.delete_doc.delete_dynamic_links', site='farmica.com', user='Administrator') (farmica.com::43b6844f-23a3-47b3-9a42-2b86913bad71)
+2024-01-22 21:44:07,306 home-chrisphine-Documents-farmica:default: Job OK (farmica.com::43b6844f-23a3-47b3-9a42-2b86913bad71)
+2024-01-22 21:44:07,306 Result is kept for 600 seconds
+2024-01-22 21:44:07,311 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-22 21:44:07,312 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-22 21:44:07,313 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-22 21:44:07,314 home-chrisphine-Documents-farmica:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Custom Field', 'name': 'NIS Weighing-custom_status'}, method='frappe.model.delete_doc.delete_dynamic_links', site='farmica.com', user='Administrator') (farmica.com::e047a4d5-5ef2-41eb-9837-1988df99a435)
+2024-01-22 21:44:07,579 home-chrisphine-Documents-farmica:default: Job OK (farmica.com::e047a4d5-5ef2-41eb-9837-1988df99a435)
+2024-01-22 21:44:07,579 Result is kept for 600 seconds
+2024-01-22 21:44:07,584 home-chrisphine-Documents-farmica:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Custom Field', 'name': 'NIS Weighing-custom_net_weight'}, method='frappe.model.delete_doc.delete_dynamic_links', site='farmica.com', user='Administrator') (farmica.com::cccb3359-22a2-4e5e-9b47-cbe83ac2d1a0)
+2024-01-22 21:44:07,828 home-chrisphine-Documents-farmica:default: Job OK (farmica.com::cccb3359-22a2-4e5e-9b47-cbe83ac2d1a0)
+2024-01-22 21:44:07,828 Result is kept for 600 seconds
+2024-01-22 22:11:08,015 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-22 22:11:08,016 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-22 22:11:08,016 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-22 22:38:08,233 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-22 22:38:08,234 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-22 22:38:08,235 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-22 23:05:08,418 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-22 23:05:08,418 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-22 23:05:08,419 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-22 23:32:08,691 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-22 23:32:08,692 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-22 23:32:08,692 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-22 23:59:08,872 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-22 23:59:08,873 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-22 23:59:08,873 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 00:26:09,018 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-23 00:26:09,018 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-23 00:26:09,019 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 00:40:50,694 Worker 0d1f3415b7ba4ab38eed7e6641988bda [PID 9653]: warm shut down requested
+2024-01-23 00:40:50,695 Unsubscribing from channel rq:pubsub:0d1f3415b7ba4ab38eed7e6641988bda
+2024-01-23 08:40:27,923 Worker rq:worker:5ef1ff92f9e94fdeb1d736b64d1f535f started with PID 6405, version 1.15.1
+2024-01-23 08:40:27,923 Subscribing to channel rq:pubsub:5ef1ff92f9e94fdeb1d736b64d1f535f
+2024-01-23 08:40:27,924 *** Listening on home-chrisphine-Documents-farmica:short, home-chrisphine-Documents-farmica:default, home-chrisphine-Documents-farmica:long...
+2024-01-23 08:40:27,924 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-23 08:40:27,925 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-23 08:40:27,925 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 09:07:28,203 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-23 09:07:28,205 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-23 09:07:28,206 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 09:34:28,451 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-23 09:34:28,462 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-23 09:34:28,463 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 09:38:49,357 Worker 5ef1ff92f9e94fdeb1d736b64d1f535f [PID 6405]: warm shut down requested
+2024-01-23 09:38:49,358 Unsubscribing from channel rq:pubsub:5ef1ff92f9e94fdeb1d736b64d1f535f
+2024-01-23 10:21:54,603 Worker rq:worker:bf7dc82a1a3b494795fd0b24a477d193 started with PID 5141, version 1.15.1
+2024-01-23 10:21:54,603 Subscribing to channel rq:pubsub:bf7dc82a1a3b494795fd0b24a477d193
+2024-01-23 10:21:54,604 *** Listening on home-chrisphine-Documents-farmica:short, home-chrisphine-Documents-farmica:default, home-chrisphine-Documents-farmica:long...
+2024-01-23 10:21:54,604 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-23 10:21:54,605 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-23 10:21:54,606 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 10:28:37,462 Worker bf7dc82a1a3b494795fd0b24a477d193 [PID 5141]: warm shut down requested
+2024-01-23 10:28:37,463 Unsubscribing from channel rq:pubsub:bf7dc82a1a3b494795fd0b24a477d193
+2024-01-23 10:43:42,840 Worker rq:worker:fc5adb22b48a4f63b57d59cb9aba15d2 started with PID 5955, version 1.15.1
+2024-01-23 10:43:42,841 Subscribing to channel rq:pubsub:fc5adb22b48a4f63b57d59cb9aba15d2
+2024-01-23 10:43:42,842 *** Listening on home-chrisphine-Documents-farmica:short, home-chrisphine-Documents-farmica:default, home-chrisphine-Documents-farmica:long...
+2024-01-23 10:43:42,842 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-23 10:43:42,843 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-23 10:43:42,843 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 10:59:39,275 Worker fc5adb22b48a4f63b57d59cb9aba15d2 [PID 5955]: warm shut down requested
+2024-01-23 10:59:39,276 Unsubscribing from channel rq:pubsub:fc5adb22b48a4f63b57d59cb9aba15d2
+2024-01-23 10:59:47,246 Worker rq:worker:7464ff739094484f95bcebcebfc6b183 started with PID 14405, version 1.15.1
+2024-01-23 10:59:47,246 Subscribing to channel rq:pubsub:7464ff739094484f95bcebcebfc6b183
+2024-01-23 10:59:47,247 *** Listening on home-chrisphine-Documents-farmica:short, home-chrisphine-Documents-farmica:default, home-chrisphine-Documents-farmica:long...
+2024-01-23 10:59:47,247 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-23 10:59:47,248 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-23 10:59:47,249 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 10:59:47,379 Worker 7464ff739094484f95bcebcebfc6b183 [PID 14405]: warm shut down requested
+2024-01-23 10:59:47,380 Unsubscribing from channel rq:pubsub:7464ff739094484f95bcebcebfc6b183
+2024-01-23 10:59:51,493 Worker rq:worker:98fc0c13220e43b78ade6d5f04638df1 started with PID 14568, version 1.15.1
+2024-01-23 10:59:51,493 Subscribing to channel rq:pubsub:98fc0c13220e43b78ade6d5f04638df1
+2024-01-23 10:59:51,494 *** Listening on home-chrisphine-Documents-farmica:short, home-chrisphine-Documents-farmica:default, home-chrisphine-Documents-farmica:long...
+2024-01-23 10:59:51,495 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-23 10:59:51,496 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-23 10:59:51,497 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 11:17:26,061 Worker 98fc0c13220e43b78ade6d5f04638df1 [PID 14568]: warm shut down requested
+2024-01-23 11:17:26,062 Unsubscribing from channel rq:pubsub:98fc0c13220e43b78ade6d5f04638df1
+2024-01-23 11:17:28,830 Worker rq:worker:5707aa95e8174b1c9cab0f181b304d42 started with PID 20307, version 1.15.1
+2024-01-23 11:17:28,830 Subscribing to channel rq:pubsub:5707aa95e8174b1c9cab0f181b304d42
+2024-01-23 11:17:28,831 *** Listening on home-chrisphine-Documents-farmica:short, home-chrisphine-Documents-farmica:default, home-chrisphine-Documents-farmica:long...
+2024-01-23 11:17:28,832 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-23 11:17:28,833 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-23 11:17:28,834 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 11:29:53,448 Worker 5707aa95e8174b1c9cab0f181b304d42 [PID 20307]: warm shut down requested
+2024-01-23 11:29:53,453 Unsubscribing from channel rq:pubsub:5707aa95e8174b1c9cab0f181b304d42
+2024-01-23 11:34:35,286 Worker rq:worker:2b6bbae4c7114b29acc80e82e4a5e8d7 started with PID 8482, version 1.15.1
+2024-01-23 11:34:35,286 Subscribing to channel rq:pubsub:2b6bbae4c7114b29acc80e82e4a5e8d7
+2024-01-23 11:34:35,287 *** Listening on home-chrisphine-Documents-farmica:short, home-chrisphine-Documents-farmica:default, home-chrisphine-Documents-farmica:long...
+2024-01-23 11:34:35,287 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-23 11:34:35,288 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-23 11:34:35,288 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 11:40:54,714 Worker 2b6bbae4c7114b29acc80e82e4a5e8d7 [PID 8482]: warm shut down requested
+2024-01-23 11:40:54,715 Unsubscribing from channel rq:pubsub:2b6bbae4c7114b29acc80e82e4a5e8d7
+2024-01-23 11:41:09,915 Worker rq:worker:7f2af52fcd16429a9fa957254c9230cb started with PID 13779, version 1.15.1
+2024-01-23 11:41:09,915 Subscribing to channel rq:pubsub:7f2af52fcd16429a9fa957254c9230cb
+2024-01-23 11:41:09,916 *** Listening on home-chrisphine-Documents-farmica:short, home-chrisphine-Documents-farmica:default, home-chrisphine-Documents-farmica:long...
+2024-01-23 11:41:09,916 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-23 11:41:09,917 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-23 11:41:09,917 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 11:41:10,021 Worker 7f2af52fcd16429a9fa957254c9230cb [PID 13779]: warm shut down requested
+2024-01-23 11:41:10,021 Unsubscribing from channel rq:pubsub:7f2af52fcd16429a9fa957254c9230cb
+2024-01-23 11:44:57,291 Worker rq:worker:ce0ccd22a9834eff83ddf70d953779d3 started with PID 14750, version 1.15.1
+2024-01-23 11:44:57,291 Subscribing to channel rq:pubsub:ce0ccd22a9834eff83ddf70d953779d3
+2024-01-23 11:44:57,292 *** Listening on home-chrisphine-Documents-farmica:short, home-chrisphine-Documents-farmica:default, home-chrisphine-Documents-farmica:long...
+2024-01-23 11:44:57,292 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-23 11:44:57,292 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-23 11:44:57,293 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 12:11:57,577 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-23 12:11:57,578 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-23 12:11:57,579 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 12:38:57,671 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-23 12:38:57,672 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-23 12:38:57,672 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 13:05:57,935 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-23 13:05:57,936 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-23 13:05:57,936 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 13:11:01,401 Worker ce0ccd22a9834eff83ddf70d953779d3 [PID 14750]: warm shut down requested
+2024-01-23 13:11:01,402 Unsubscribing from channel rq:pubsub:ce0ccd22a9834eff83ddf70d953779d3
+2024-01-23 13:11:03,499 Worker rq:worker:f67ab79a4fc94c07b9ca632742f76ec6 started with PID 38329, version 1.15.1
+2024-01-23 13:11:03,499 Subscribing to channel rq:pubsub:f67ab79a4fc94c07b9ca632742f76ec6
+2024-01-23 13:11:03,500 *** Listening on home-chrisphine-Documents-farmica:short, home-chrisphine-Documents-farmica:default, home-chrisphine-Documents-farmica:long...
+2024-01-23 13:11:03,500 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-23 13:11:03,500 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-23 13:11:03,501 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 13:38:03,716 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-23 13:38:03,717 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-23 13:38:03,718 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 13:40:04,672 Worker f67ab79a4fc94c07b9ca632742f76ec6 [PID 38329]: warm shut down requested
+2024-01-23 13:40:04,673 Unsubscribing from channel rq:pubsub:f67ab79a4fc94c07b9ca632742f76ec6
+2024-01-23 13:40:06,858 Worker rq:worker:b0283e31bad747a88121e364924ec8df started with PID 49243, version 1.15.1
+2024-01-23 13:40:06,859 Subscribing to channel rq:pubsub:b0283e31bad747a88121e364924ec8df
+2024-01-23 13:40:06,860 *** Listening on home-chrisphine-Documents-farmica:short, home-chrisphine-Documents-farmica:default, home-chrisphine-Documents-farmica:long...
+2024-01-23 13:40:06,860 Cleaning registries for queue: home-chrisphine-Documents-farmica:short
+2024-01-23 13:40:06,861 Cleaning registries for queue: home-chrisphine-Documents-farmica:default
+2024-01-23 13:40:06,862 Cleaning registries for queue: home-chrisphine-Documents-farmica:long
+2024-01-23 13:49:42,977 Worker b0283e31bad747a88121e364924ec8df [PID 49243]: warm shut down requested
+2024-01-23 13:49:42,988 Unsubscribing from channel rq:pubsub:b0283e31bad747a88121e364924ec8df

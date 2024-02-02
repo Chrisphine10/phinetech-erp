@@ -1,4 +1,4 @@
-2024-01-23 11:01:32,955 ERROR frappe Unable to load translations
+2024-01-18 17:46:47,327 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -13,7 +13,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:01:32,955 ERROR frappe Unable to load translations
+2024-01-18 17:46:47,327 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -28,7 +28,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:01:32,956 ERROR frappe Unable to load translations
+2024-01-18 17:46:47,327 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -43,7 +43,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:01:32,956 ERROR frappe Unable to load translations
+2024-01-18 17:46:47,328 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -58,7 +58,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:01:32,956 ERROR frappe Unable to load translations
+2024-01-18 17:46:47,328 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -73,7 +73,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:01:32,956 ERROR frappe Unable to load translations
+2024-01-18 17:46:47,328 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -88,7 +88,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:01:32,956 ERROR frappe Unable to load translations
+2024-01-18 17:46:47,328 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -103,7 +103,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:01:32,956 ERROR frappe Unable to load translations
+2024-01-18 17:46:47,328 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -118,7 +118,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:01:36,808 ERROR frappe Unable to load translations
+2024-01-18 17:46:47,328 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -133,7 +133,58 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:01:36,808 ERROR frappe Unable to load translations
+2024-01-18 17:47:00,577 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': 'new-nis-weighing-dtnoueahwk', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:47:17,562 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': 'new-nis-weighing-dtnoueahwk', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:47:22,404 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': 'new-nis-weighing-dtnoueahwk', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:47:35,041 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': 'new-nis-weighing-tahirodlrg', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:47:42,023 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': 'new-nis-weighing-pwegmasthn', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:47:46,440 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': '3', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:47:49,160 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': '2', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:47:53,504 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': '2', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:47:56,557 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': '3', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:48:02,820 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': '3', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:48:08,460 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': '2', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:48:15,428 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': '3', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:48:32,882 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': '3', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:48:35,125 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': '2', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:48:36,299 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': '3', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:48:36,682 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': '2', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:48:44,060 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': '3', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:48:52,705 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -148,7 +199,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:01:36,808 ERROR frappe Unable to load translations
+2024-01-18 17:48:52,705 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -163,7 +214,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:01:36,809 ERROR frappe Unable to load translations
+2024-01-18 17:48:52,705 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -178,7 +229,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:01:36,809 ERROR frappe Unable to load translations
+2024-01-18 17:48:52,705 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -193,7 +244,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:01:36,809 ERROR frappe Unable to load translations
+2024-01-18 17:48:52,706 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -208,7 +259,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:01:36,809 ERROR frappe Unable to load translations
+2024-01-18 17:48:52,706 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -223,7 +274,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:01:36,809 ERROR frappe Unable to load translations
+2024-01-18 17:48:52,706 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -238,7 +289,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:01:36,809 ERROR frappe Unable to load translations
+2024-01-18 17:48:52,706 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -253,7 +304,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:01:36,810 ERROR frappe Unable to load translations
+2024-01-18 17:48:52,706 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -268,7 +319,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:01:36,810 ERROR frappe Unable to load translations
+2024-01-18 17:48:52,706 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -283,7 +334,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:02:15,947 ERROR frappe Unable to load translations
+2024-01-18 17:48:52,706 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -298,7 +349,13 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:02:15,948 ERROR frappe Unable to load translations
+2024-01-18 17:48:55,697 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': '3', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:51:19,283 ERROR frappe New Exception collected in error log
+Site: farmica.com
+Form Dict: {'doctype': 'NIS Weighing', 'name': '3', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-01-18 17:51:43,301 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -313,7 +370,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:02:15,948 ERROR frappe Unable to load translations
+2024-01-18 17:51:43,301 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -328,7 +385,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:02:15,948 ERROR frappe Unable to load translations
+2024-01-18 17:51:43,301 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -343,7 +400,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:02:15,948 ERROR frappe Unable to load translations
+2024-01-18 17:51:43,301 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -358,7 +415,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:02:15,948 ERROR frappe Unable to load translations
+2024-01-18 17:51:43,301 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -373,7 +430,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:02:15,949 ERROR frappe Unable to load translations
+2024-01-18 17:51:43,302 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -388,7 +445,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:02:15,949 ERROR frappe Unable to load translations
+2024-01-18 17:51:43,302 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -403,7 +460,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:02:15,949 ERROR frappe Unable to load translations
+2024-01-18 17:51:43,302 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -418,7 +475,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:02:15,949 ERROR frappe Unable to load translations
+2024-01-18 17:51:43,302 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -433,7 +490,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:02:15,949 ERROR frappe Unable to load translations
+2024-01-18 17:51:43,302 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -448,7 +505,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:20,918 ERROR frappe Unable to load translations
+2024-01-18 17:51:43,302 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -463,7 +520,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:20,919 ERROR frappe Unable to load translations
+2024-01-18 17:52:40,973 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -478,7 +535,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:20,919 ERROR frappe Unable to load translations
+2024-01-18 17:52:40,974 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -493,7 +550,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:20,920 ERROR frappe Unable to load translations
+2024-01-18 17:52:40,974 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -508,7 +565,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:20,920 ERROR frappe Unable to load translations
+2024-01-18 17:52:40,975 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -523,7 +580,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:20,920 ERROR frappe Unable to load translations
+2024-01-18 17:52:40,975 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -538,7 +595,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:20,920 ERROR frappe Unable to load translations
+2024-01-18 17:52:40,975 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -553,7 +610,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:20,920 ERROR frappe Unable to load translations
+2024-01-18 17:52:40,975 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -568,7 +625,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:20,921 ERROR frappe Unable to load translations
+2024-01-18 17:52:40,975 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -583,7 +640,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:20,921 ERROR frappe Unable to load translations
+2024-01-18 17:52:40,976 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -598,7 +655,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:20,921 ERROR frappe Unable to load translations
+2024-01-18 17:52:40,976 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -613,7 +670,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:28,701 ERROR frappe Unable to load translations
+2024-01-18 17:52:40,976 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -628,7 +685,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:28,702 ERROR frappe Unable to load translations
+2024-01-18 18:01:13,272 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -643,7 +700,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:28,702 ERROR frappe Unable to load translations
+2024-01-18 18:01:13,273 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -658,7 +715,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:28,702 ERROR frappe Unable to load translations
+2024-01-18 18:01:13,273 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -673,7 +730,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:28,702 ERROR frappe Unable to load translations
+2024-01-18 18:01:13,274 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -688,7 +745,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:28,703 ERROR frappe Unable to load translations
+2024-01-18 18:01:13,274 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -703,7 +760,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:28,703 ERROR frappe Unable to load translations
+2024-01-18 18:01:13,274 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -718,7 +775,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:28,703 ERROR frappe Unable to load translations
+2024-01-18 18:01:13,274 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -733,7 +790,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:28,703 ERROR frappe Unable to load translations
+2024-01-18 18:01:13,275 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -748,7 +805,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:28,703 ERROR frappe Unable to load translations
+2024-01-18 18:01:13,275 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -763,7 +820,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:28,703 ERROR frappe Unable to load translations
+2024-01-18 18:01:13,275 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -778,7 +835,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:29,606 ERROR frappe Unable to load translations
+2024-01-18 18:01:13,275 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -793,7 +850,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:29,607 ERROR frappe Unable to load translations
+2024-01-18 18:01:21,420 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -808,7 +865,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:29,607 ERROR frappe Unable to load translations
+2024-01-18 18:01:21,421 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -823,7 +880,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:29,607 ERROR frappe Unable to load translations
+2024-01-18 18:01:21,421 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -838,7 +895,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:29,607 ERROR frappe Unable to load translations
+2024-01-18 18:01:21,421 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -853,7 +910,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:29,607 ERROR frappe Unable to load translations
+2024-01-18 18:01:21,422 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -868,7 +925,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:29,608 ERROR frappe Unable to load translations
+2024-01-18 18:01:21,422 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -883,7 +940,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:29,608 ERROR frappe Unable to load translations
+2024-01-18 18:01:21,422 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -898,7 +955,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:29,608 ERROR frappe Unable to load translations
+2024-01-18 18:01:21,422 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -913,7 +970,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:29,608 ERROR frappe Unable to load translations
+2024-01-18 18:01:21,423 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -928,7 +985,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:17:29,608 ERROR frappe Unable to load translations
+2024-01-18 18:01:21,423 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -943,7 +1000,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:10,243 ERROR frappe Unable to load translations
+2024-01-18 18:01:21,423 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -958,7 +1015,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:10,243 ERROR frappe Unable to load translations
+2024-01-18 18:08:40,725 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -973,7 +1030,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:10,243 ERROR frappe Unable to load translations
+2024-01-18 18:08:40,726 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -988,7 +1045,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:10,244 ERROR frappe Unable to load translations
+2024-01-18 18:08:40,726 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1003,7 +1060,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:10,244 ERROR frappe Unable to load translations
+2024-01-18 18:08:40,726 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1018,7 +1075,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:10,244 ERROR frappe Unable to load translations
+2024-01-18 18:08:40,726 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1033,7 +1090,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:10,244 ERROR frappe Unable to load translations
+2024-01-18 18:08:40,727 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1048,7 +1105,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:10,244 ERROR frappe Unable to load translations
+2024-01-18 18:08:40,727 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1063,7 +1120,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:10,244 ERROR frappe Unable to load translations
+2024-01-18 18:08:40,727 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1078,7 +1135,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:10,244 ERROR frappe Unable to load translations
+2024-01-18 18:08:40,727 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1093,7 +1150,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:10,245 ERROR frappe Unable to load translations
+2024-01-18 18:08:40,727 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1108,7 +1165,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:43,802 ERROR frappe Unable to load translations
+2024-01-18 18:08:40,727 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1123,7 +1180,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:43,802 ERROR frappe Unable to load translations
+2024-01-18 18:11:43,744 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1138,7 +1195,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:43,802 ERROR frappe Unable to load translations
+2024-01-18 18:11:43,745 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1153,7 +1210,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:43,803 ERROR frappe Unable to load translations
+2024-01-18 18:11:43,745 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1168,7 +1225,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:43,803 ERROR frappe Unable to load translations
+2024-01-18 18:11:43,745 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1183,7 +1240,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:43,803 ERROR frappe Unable to load translations
+2024-01-18 18:11:43,745 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1198,7 +1255,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:43,803 ERROR frappe Unable to load translations
+2024-01-18 18:11:43,745 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1213,7 +1270,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:43,803 ERROR frappe Unable to load translations
+2024-01-18 18:11:43,745 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1228,7 +1285,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:43,803 ERROR frappe Unable to load translations
+2024-01-18 18:11:43,745 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1243,7 +1300,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:43,804 ERROR frappe Unable to load translations
+2024-01-18 18:11:43,746 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1258,7 +1315,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:21:43,804 ERROR frappe Unable to load translations
+2024-01-18 18:11:43,746 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1273,7 +1330,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:22:33,751 ERROR frappe Unable to load translations
+2024-01-18 18:11:43,746 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1288,7 +1345,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:22:33,751 ERROR frappe Unable to load translations
+2024-01-18 18:16:55,516 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1303,7 +1360,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:22:33,751 ERROR frappe Unable to load translations
+2024-01-18 18:16:55,516 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1318,7 +1375,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:22:33,752 ERROR frappe Unable to load translations
+2024-01-18 18:16:55,516 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1333,7 +1390,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:22:33,752 ERROR frappe Unable to load translations
+2024-01-18 18:16:55,516 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1348,7 +1405,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:22:33,752 ERROR frappe Unable to load translations
+2024-01-18 18:16:55,517 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1363,7 +1420,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:22:33,752 ERROR frappe Unable to load translations
+2024-01-18 18:16:55,517 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1378,7 +1435,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:22:33,752 ERROR frappe Unable to load translations
+2024-01-18 18:16:55,517 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1393,7 +1450,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:22:33,752 ERROR frappe Unable to load translations
+2024-01-18 18:16:55,517 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
@@ -1408,67 +1465,7 @@ Traceback (most recent call last):
   File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
     raise RuntimeError(unbound_message) from None
 RuntimeError: object is not bound
-2024-01-23 11:22:33,753 ERROR frappe Unable to load translations
-Site: None
-Form Dict: None
-Traceback (most recent call last):
-  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
-    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
-  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
-    _name = self.make_key(name, shared=shared)
-  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
-    return f"{frappe.conf.db_name}|{key}".encode()
-  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
-    obj = instance._get_current_object()
-  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
-    raise RuntimeError(unbound_message) from None
-RuntimeError: object is not bound
-2024-01-23 11:22:33,753 ERROR frappe Unable to load translations
-Site: None
-Form Dict: None
-Traceback (most recent call last):
-  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
-    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
-  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
-    _name = self.make_key(name, shared=shared)
-  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
-    return f"{frappe.conf.db_name}|{key}".encode()
-  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
-    obj = instance._get_current_object()
-  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
-    raise RuntimeError(unbound_message) from None
-RuntimeError: object is not bound
-2024-01-23 11:22:47,987 ERROR frappe Unable to load translations
-Site: None
-Form Dict: None
-Traceback (most recent call last):
-  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
-    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
-  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
-    _name = self.make_key(name, shared=shared)
-  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
-    return f"{frappe.conf.db_name}|{key}".encode()
-  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
-    obj = instance._get_current_object()
-  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
-    raise RuntimeError(unbound_message) from None
-RuntimeError: object is not bound
-2024-01-23 11:22:47,987 ERROR frappe Unable to load translations
-Site: None
-Form Dict: None
-Traceback (most recent call last):
-  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/translate.py", line 292, in get_all_translations
-    return frappe.cache.hget(MERGED_TRANSLATION_KEY, lang, generator=_merge_translations)
-  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 217, in hget
-    _name = self.make_key(name, shared=shared)
-  File "/home/chrisphine/Documents/farmica/apps/frappe/frappe/utils/redis_wrapper.py", line 50, in make_key
-    return f"{frappe.conf.db_name}|{key}".encode()
-  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 311, in __get__
-    obj = instance._get_current_object()
-  File "/home/chrisphine/Documents/farmica/env/lib/python3.10/site-packages/werkzeug/local.py", line 490, in _get_current_object
-    raise RuntimeError(unbound_message) from None
-RuntimeError: object is not bound
-2024-01-23 11:22:47,987 ERROR frappe Unable to load translations
+2024-01-18 18:16:55,517 ERROR frappe Unable to load translations
 Site: None
 Form Dict: None
 Traceback (most recent call last):
